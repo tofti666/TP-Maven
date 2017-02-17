@@ -1,0 +1,1 @@
+mvn site > log.txt

@@ -1,0 +1,1 @@
+mvn archetype:generate -B -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=com.objis.mavenapps -DartifactId=monappli -Dversion=1.0-SNAPSHOT -DpackageName=com.objis.mavenapps
